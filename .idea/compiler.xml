@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="j2003_spb_mq_consumer2" />
+        <module name="j2003_spb_mq" />
+        <module name="j2003_spb_mq2" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
